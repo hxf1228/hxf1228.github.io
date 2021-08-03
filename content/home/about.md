@@ -1,5 +1,5 @@
 ---
-widget: "123"
+widget: blank
 widget_id: HOME
 headless: true
 weight: 10

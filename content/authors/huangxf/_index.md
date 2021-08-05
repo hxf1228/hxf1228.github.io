@@ -1,8 +1,6 @@
 ---
 # Display name
-title: 
-Xufeng Huang 
-  (黄旭丰)
+title: Xufeng Huang
 
 # Is this the primary user of the site?
 superuser: true
@@ -12,17 +10,15 @@ role: Incoming Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Michigan-Dearborn
+  url: https://umdearborn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Deep Learning, Additive Manufacturing and Diagnosis System.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
 # Education to show in About widget
 education:

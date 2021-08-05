@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xufeng Huang (黄旭丰)
+title: Xufeng Huang <br/> (黄旭丰)
 
 # Is this the primary user of the site?
 superuser: true

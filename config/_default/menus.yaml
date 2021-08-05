@@ -5,13 +5,10 @@
 
 main:
   - name: Home
-    url: '#about'
-    weight: 10
-  - name: Posts
-    url: '#posts'
+    url: 'about'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Posts
+    url: 'posts'
     weight: 30
   - name: Talks
     url: '#talks'

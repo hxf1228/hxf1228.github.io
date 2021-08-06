@@ -23,8 +23,9 @@ education:
     - course: B.S. in Mechanical Design Manufacturing and Automation
       institution: Huazhong University of Science and Technology (HUST)
       year: 2016
-email: ""
+email: xufenghuang1228@gmail.com
 superuser: true
+user_groups: []
 highlight_name: false
 ---
 I am an incoming Ph.D. student in the Department of Industrial and Manufacturing Systems Engineering at the University of Michigan-Dearborn. I will join the [Computational Engineering & Reliability Laboratory](http://www.google.com/url?q=http%3A%2F%2Freliadesign.net%2F&sa=D&sntz=1&usg=AFQjCNHDhX32PLsSLRh0f34rLsNWrvddzg) (CERL) under the supervision of [Dr. Zhen Hu](https://www.google.com/url?q=https%3A%2F%2Fumdearborn.edu%2Fusers%2Fzhennhu&sa=D&sntz=1&usg=AFQjCNGm3aWrgnO9QRX-fyo7alwGhUsuwA) in 2022 winter.

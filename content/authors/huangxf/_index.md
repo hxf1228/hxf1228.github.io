@@ -1,5 +1,6 @@
 ---
 title: Xufeng Huang
+title: （黄旭丰）
 role: Incoming Ph.D. Student
 avatar_filename: avatar.jpg
 bio: My research interests include Additive Manufacturing and Diagnosis System.
@@ -9,6 +10,12 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=hkSBCssAAAAJ&hl=en
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-4666-4569
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Xufeng-Huang-2
   - icon: github
     icon_pack: fab
     link: https://github.com/hxf1228

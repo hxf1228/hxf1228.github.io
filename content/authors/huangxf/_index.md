@@ -1,5 +1,5 @@
 ---
-title: Xufeng Huang    （黄旭丰）
+title: Xufeng Huang
 role: Incoming Ph.D. Student
 avatar_filename: avatar.jpg
 bio: My research interests include Additive Manufacturing and Diagnosis System.

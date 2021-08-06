@@ -24,10 +24,10 @@ organizations:
 education:
   courses:
     - course: M.S. in Mechatronic Engineering
-      institution: Guangxi University (GXU)
+      institution: [Guangxi University (GXU)](https://english.gxu.edu.cn/), Nanning, China
       year: 2019
     - course: B.S. in Mechanical Design Manufacturing and Automation
-      institution: Huazhong University of Science and Technology (HUST)
+      institution: [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), Wuhan, China
       year: 2016
 email: xufenghuang1228@gmail.com
 superuser: true

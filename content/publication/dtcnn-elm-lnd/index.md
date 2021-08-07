@@ -37,7 +37,7 @@ summary: In this paper, a novel diagnosis method based on Deep Transfer Convolut
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""

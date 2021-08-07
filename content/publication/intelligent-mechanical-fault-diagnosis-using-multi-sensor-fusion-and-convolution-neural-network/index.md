@@ -19,25 +19,10 @@ url_pdf: null
 publication_types:
   - "2"
 authors:
-  - huangxf
-  - Qiang Lei
   - Tingli Xie
-  - Yahui Zhang
-  - Zhen Hu
-  - Qi Zhou
-author_notes:
-  - School of Aerospace Engineering, Huazhong University of Science &
-    Technology, Wuhan 430074, PR China
-  - Department of Medical Imaging, Guangdong Second Provincial General Hospital,
-    Guangzhou 510317, PR China
-  - George W. Woodruff School of Mechanical Engineering, Georgia Institute of
-    Technology, Atlanta, GA 30332, USA
-  - Informatics Institute, Faculty of Science, University of Amsterdam,
-    Amsterdam, The Netherlands
-  - Department of Industrial and Manufacturing Systems Engineering, University
-    of Michigan-Dearborn, Dearborn, MI 48128, USA
-  - Corresponding author, School of Aerospace Engineering, Huazhong University
-    of Science & Technology, Wuhan 430074, PR China
+  - huangxf
+  - Seung-Kyum Choi
+author_notes: []
 publication: "*IEEE Transactions on Industrial Informatics* (Early Access), 1-1"
 summary: ""
 url_dataset: null

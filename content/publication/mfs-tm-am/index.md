@@ -29,8 +29,8 @@ publishDate: 2021-08-07T20:59:48+08:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ASCE-ASME Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering"
-publication_short: "ASME J. Risk Uncertainty Part B."
+publication: "*ASCE-ASME Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering, 8(1)*, 011104"
+publication_short: "ASCE-ASME J. Risk. and Uncert. in Engrg. Sys. Part B Mech. Engrg."
 
 abstract: "Melt pool modeling is critical for model-based uncertainty quantification (UQ) and quality control in metallic Additive Manufacturing (AM). Finite element (FE) simulation for thermal modeling in metal AM, however, is tedious and time-consuming. This paper presents a multi-fidelity point-cloud neural network method (MF-PointNN) for surrogate modeling of melt pool based on FE simulation data. It merges the feature representations of low-fidelity (LF) analytical model and high-fidelity (HF) FE simulation data through the theory of transfer learning (TL). A basic PointNN is firstly trained using LF data to construct correlation between the inputs and thermal field of analytical models. Then, the basic PointNN is updated and fine-tuned using the small size of HF data to build the MF-PointNN. The trained MF-PointNN allows for efficient mapping from input variables and spatial positions to thermal histories, and thereby efficiently predict the three-dimensional melt pool. Results of melt pool modeling of electron beam additive manufacturing (EBAM) of Ti-6Al-4V under uncertainty demonstrate the efficacy of the proposed approach."
 

@@ -49,5 +49,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-## 👋 Welcome to Xufeng Huang's Homepage

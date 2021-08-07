@@ -23,11 +23,11 @@ authors:
   - huangxf
   - Seung-Kyum Choi
 author_notes: []
-publication: "*IEEE Transactions on Industrial Informatics* (Early Access), 1-1"
+publication: "*IEEE Transactions on Industrial Informatics*"
 summary: ""
 url_dataset: null
 url_project: null
-publication_short: "*IEEE Trans. Ind. Inf.* (Early Access), 1-1"
+publication_short: "*IEEE Trans. Ind. Inf.*"
 url_source: null
 url_video: null
 title: Intelligent Mechanical Fault Diagnosis Using Multi-Sensor Fusion and

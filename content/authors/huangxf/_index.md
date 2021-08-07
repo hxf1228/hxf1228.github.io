@@ -46,7 +46,7 @@ Email: xufenghuang1228@gmail.com; xfhuang@umich.edu
 - 2012.09 – 2016.06: B.Eng, Mechanical Design Manufacturing and Automation, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), Wuhan, China
 
 ## Experience
-– 2019.08 – 2020.12: Research Assistant, [Dr. Qi Zhou’s Group](https://scholar.google.fr/citations?user=HEMahGkAAAAJ&hl=en), School of Aerospace Engineering, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), Wuhan, China
+- 2019.08 – 2020.12: Research Assistant, [Dr. Qi Zhou’s Group](https://scholar.google.fr/citations?user=HEMahGkAAAAJ&hl=en), School of Aerospace Engineering, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), Wuhan, China
 
 ## Awards
 - 2019: Excellent Graduate of GXU

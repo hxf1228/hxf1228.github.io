@@ -3,7 +3,7 @@
 
 title: "A Transfer Learning-Based Multi-Fidelity Point-Cloud Neural Network Approach for Melt Pool Modeling in Additive Manufacturing"
 authors:
-- {{< hl >}}huangxf{{< /hl >}}
+- huangxf
 - Tingli Xie
 - Zhuo Wang
 - Lei Chen

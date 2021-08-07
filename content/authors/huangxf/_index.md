@@ -36,4 +36,4 @@ highlight_name: false
 ---
 I am an incoming Ph.D. student in the Department of Industrial and Manufacturing Systems Engineering at the University of Michigan-Dearborn. I will join the [Computational Engineering & Reliability Laboratory](http://www.google.com/url?q=http%3A%2F%2Freliadesign.net%2F&sa=D&sntz=1&usg=AFQjCNHDhX32PLsSLRh0f34rLsNWrvddzg) (CERL) under the supervision of [Dr. Zhen Hu](https://www.google.com/url?q=https%3A%2F%2Fumdearborn.edu%2Fusers%2Fzhennhu&sa=D&sntz=1&usg=AFQjCNGm3aWrgnO9QRX-fyo7alwGhUsuwA) in 2022 winter.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

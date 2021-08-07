@@ -83,7 +83,7 @@ slides: ""
 
 {{% callout note %}}
 
-Click the **Cite** button above to cite the original journal paper with the BibTex entry.
+Click the **Cite** button above to cite the original paper with the BibTex entry.
 
 Click the **DOI** button above to get the paper.
 

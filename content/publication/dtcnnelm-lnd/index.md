@@ -10,12 +10,12 @@ authors:
 - Zhen Hu
 - Qi Zhou
 author_notes:
-- ""
-- ""
-- ""
-- ""
-- ""
-- "Corresponding author"
+- "School of Aerospace Engineering, Huazhong University of Science & Technology, Wuhan 430074, PR China"
+- "Department of Medical Imaging, Guangdong Second Provincial General Hospital, Guangzhou 510317, PR China"
+- "George W. Woodruff School of Mechanical Engineering, Georgia Institute of Technology, Atlanta, GA 30332, USA"
+- "Informatics Institute, Faculty of Science, University of Amsterdam, Amsterdam, The Netherlands"
+- "Department of Industrial and Manufacturing Systems Engineering, University of Michigan-Dearborn, Dearborn, MI 48128, USA"
+- "Corresponding author, School of Aerospace Engineering, Huazhong University of Science & Technology, Wuhan 430074, PR China"
 date: 2020-09-27T17:27:44+08:00
 doi: "10.1016/j.knosys.2020.106230"
 
@@ -30,7 +30,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Knowledge-Based Systems, 204*, 106230"
-publication_short: ""
+publication_short: "*Knowl.-Based Syst., 204*, 106230"
 
 abstract: "Diagnosis of benign–malignant nodules in the lung on Computed Tomography (CT) images is critical for determining tumor level and reducing patient mortality. Deep learning-based diagnosis of nodules in lung CT images, however, is time-consuming and less accurate due to redundant structure and the lack of adequate training data. In this paper, a novel diagnosis method based on Deep Transfer Convolutional Neural Network (DTCNN) and Extreme Learning Machine (ELM) is explored, which merges the synergy of two algorithms to deal with benign–malignant nodules classification. An optimal DTCNN is first adopted to extract high-level features of lung nodules, which has been trained with the ImageNet dataset beforehand. After that, an ELM classifier is further developed to classify benign and malignant lung nodules. Two datasets, including the Lung Image Database Consortium and Image Database Resource Initiative (LIDC-IDRI) public dataset and a private dataset from the First Affiliated Hospital of Guangzhou Medical University in China (FAH-GMU), have been conducted to verify the efficiency and effectiveness of the proposed approach. For LIDC-IDRI dataset, the experimental results show that our novel DTCNN-ELM model achieved the performance with an accuracy of 94.57%, a sensitivity of 93.69%, a specificity of 95.15%, an area under the receiver operator curve (AUC) of 94.94%, and testing time per nodule of 0.5 ms, which has the most reliable results compared with current state-of-the-art methods. Codes are available."
 

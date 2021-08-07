@@ -2,8 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Deep Transfer Convolutional Neural Network and Extreme Learning Machine for lung nodule diagnosis on CT images"
-authors: []
-date: 2021-08-07T17:27:44+08:00
+authors:
+-Xufeng Huang
+-Qiang Lei
+-Tingli Xie
+-Yahui Zhang
+-Zhen Hu
+-Qi Zhou
+date: 2020-09-27T17:27:44+08:00
 doi: "10.1016/j.knosys.2020.106230"
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +22,7 @@ publishDate: 2021-08-07T17:27:44+08:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Knowledge-Based Systems, 204*(106230)"
 publication_short: ""
 
 abstract: "Diagnosis of benign–malignant nodules in the lung on Computed Tomography (CT) images is critical for determining tumor level and reducing patient mortality. Deep learning-based diagnosis of nodules in lung CT images, however, is time-consuming and less accurate due to redundant structure and the lack of adequate training data. In this paper, a novel diagnosis method based on Deep Transfer Convolutional Neural Network (DTCNN) and Extreme Learning Machine (ELM) is explored, which merges the synergy of two algorithms to deal with benign–malignant nodules classification. An optimal DTCNN is first adopted to extract high-level features of lung nodules, which has been trained with the ImageNet dataset beforehand. After that, an ELM classifier is further developed to classify benign and malignant lung nodules. Two datasets, including the Lung Image Database Consortium and Image Database Resource Initiative (LIDC-IDRI) public dataset and a private dataset from the First Affiliated Hospital of Guangzhou Medical University in China (FAH-GMU), have been conducted to verify the efficiency and effectiveness of the proposed approach. For LIDC-IDRI dataset, the experimental results show that our novel DTCNN-ELM model achieved the performance with an accuracy of 94.57%, a sensitivity of 93.69%, a specificity of 95.15%, an area under the receiver operator curve (AUC) of 94.94%, and testing time per nodule of 0.5 ms, which has the most reliable results compared with current state-of-the-art methods. Codes are available."

@@ -41,8 +41,8 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: featured.jpg
-date: 2021-08-07T13:54:02.535Z
+  filename: ""
+date: 2021-08-03T16:00:02.535Z
 url_slides: null
 publishDate: 2021-08-07T17:27:44+08:00
 url_poster: null

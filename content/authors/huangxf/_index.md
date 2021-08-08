@@ -51,6 +51,7 @@ Email: xufenghuang1228@gmail.com; xfhuang@umich.edu
 ## Awards
 - 2019: Excellent Graduate of GXU
 - 2016/2017/2018: Outstanding Academic Scholarship of GXU
+- 2016: Excellent Graduate of HUST
 - 2015: Most Improved Scholarship of HUST
 
 ## Reviewers

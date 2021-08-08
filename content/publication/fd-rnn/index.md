@@ -9,11 +9,11 @@ authors:
 - Longchao cao
 - Qi Zhou
 author_notes:
-- "Informatics Institute, Faculty of Science, University of Amsterdam, Science Park 906, Amsterdam, Netherland"
-- "China Ship Development and Design Center, Wuhan 430060, China"
-- "School of Aerospace Engineering, Huazhong University of Science and Technology, Wuhan 430074, China"
-- "School of Aerospace Engineering, Huazhong University of Science and Technology, Wuhan 430074, China"
-- "Corresponding author, School of Aerospace Engineering, Huazhong University of Science and Technology, Wuhan 430074, China"
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
 date: 2021-04-07T21:20:00+08:00
 doi: "10.1016/j.measurement.2020.108774"
 

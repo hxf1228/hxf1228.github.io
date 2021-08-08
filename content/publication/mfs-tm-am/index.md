@@ -10,12 +10,12 @@ authors:
 - Qi Zhou
 - Zhen Hu
 author_notes:
-- "Department of Industrial and Manufacturing Systems Engineering, University of Michigan-Dearborn, 2340 Heinz Prechter Engineering Complex (HPEC), Dearborn, MI 48128"
-- "George W. Woodruff School of Mechanical Engineering, Georgia Institute of Technology, North Avenue, Atlanta 30332, GA"
-- "Department of Mechanical Engineering, University of Michigan-Dearborn, 1320 Heinz Prechter Engineering Complex (HPEC), Dearborn, MI 48128"
-- "Department of Mechanical Engineering, University of Michigan-Dearborn, 1320 Heinz Prechter Engineering Complex (HPEC), Dearborn, MI 48128"
-- "Co-Corresponding author, Department of Aerospace Engineering, Huazhong University of Science and Technology, 1037 Luoyu Rd, Hongshan, Wuhan, Hubei 430074, China"
-- "Corresponding author, Department of Industrial and Manufacturing Systems Engineering, University of Michigan-Dearborn, 2340 Heinz Prechter Engineering Complex (HPEC), Dearborn, MI 48128"
+- ""
+- ""
+- ""
+- ""
+- "Co-Corresponding author"
+- "Corresponding author"
 date: 2021-08-04T20:59:48+08:00
 doi: "10.1115/1.4051749"
 

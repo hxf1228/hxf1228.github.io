@@ -10,12 +10,12 @@ authors:
 - Zhen Hu
 - Qi Zhou
 author_notes:
-- "School of Aerospace Engineering, Huazhong University of Science & Technology, Wuhan 430074, PR China"
-- "Department of Medical Imaging, Guangdong Second Provincial General Hospital, Guangzhou 510317, PR China"
-- "George W. Woodruff School of Mechanical Engineering, Georgia Institute of Technology, Atlanta, GA 30332, USA"
-- "Informatics Institute, Faculty of Science, University of Amsterdam, Amsterdam, The Netherlands"
-- "Department of Industrial and Manufacturing Systems Engineering, University of Michigan-Dearborn, Dearborn, MI 48128, USA"
-- "Corresponding author, School of Aerospace Engineering, Huazhong University of Science & Technology, Wuhan 430074, PR China"
+- ""
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
 date: 2020-09-27T17:27:44+08:00
 doi: "10.1016/j.knosys.2020.106230"
 

@@ -7,9 +7,9 @@ authors:
 - huangxf
 - Seung-Kyum Choi
 author_notes:
-- "George W. Woodruff School of Mechanical Engineering, Georgia Institute of Technology, Atlanta, GA 30332, USA"
-- "Department of Industrial and Manufacturing Systems Engineering, University of Michigan-Dearborn, Dearborn, MI 48128, USA"
-- "Corresponding author, George W. Woodruff School of Mechanical Engineering, Georgia Institute of Technology, Atlanta, GA 30332, USA"
+- ""
+- ""
+- "Corresponding author"
 date: 2021-08-04T21:14:30+08:00
 doi: "10.1109/TII.2021.3102017"
 

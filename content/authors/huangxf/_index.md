@@ -49,6 +49,7 @@ Email: xufenghuang1228@gmail.com; xfhuang@umich.edu
 - 2019.08 – 2020.12: Research Assistant, [Dr. Qi Zhou’s Group](https://scholar.google.fr/citations?user=HEMahGkAAAAJ&hl=en), School of Aerospace Engineering, [HUST](http://english.hust.edu.cn/), Wuhan, China
 
 ## Awards
+- 2021: Best Student Award, PHM Asia Pacific 2021
 - 2019: Excellent Graduate of GXU
 - 2016/2017/2018: Outstanding Academic Scholarship of GXU
 - 2016: Excellent Graduate of HUST

@@ -6,8 +6,8 @@ summary: Something About git.
 draft: false
 featured: false
 authors:
-  - admin
-lastmod: 2022-01-14T21:48:00Z
+  - huangxf
+lastmod: 2022-01-14T21:48:00.000Z
 tags:
   - git
   - gitignore

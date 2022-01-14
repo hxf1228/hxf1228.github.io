@@ -7,7 +7,7 @@ title: Recent Posts
 subtitle: ""
 active: false
 content:
-  page_type: publication
+  page_type: post
   count: 5
   offset: 0
   order: desc

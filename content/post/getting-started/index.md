@@ -1,42 +1,24 @@
 ---
 title: Something About git
 subtitle: Something About git.
-
-# Summary for listings and search engines
+date: 2022-01-14T14:07:10.486Z
 summary: Something About git.
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: "2022-01-14T21:48:00Z"
-
-# Date updated
-lastmod: "2022-01-14T21:48:00Z"
-
-# Is this an unpublished draft?
 draft: false
-
-# Show this page in the Featured widget?
 featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+authors:
+  - admin
+lastmod: 2022-01-14T21:48:00Z
+tags:
+  - git
+  - gitignore
+categories:
+  - git
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ""
   focal_point: ""
   placement: 2
   preview_only: false
-
-authors:
-- admin
-
-tags:
-- git
-- gitignore
-
-categories:
-- git
 ---
 
 ## .gitignore not working

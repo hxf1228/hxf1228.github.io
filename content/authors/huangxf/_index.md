@@ -34,10 +34,7 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-
-I am an incoming Ph.D. student in the Department of Industrial and Manufacturing Systems Engineering at the University of Michigan-Dearborn. I will join the [Computational Engineering & Reliability Laboratory](http://www.google.com/url?q=http%3A%2F%2Freliadesign.net%2F&sa=D&sntz=1&usg=AFQjCNHDhX32PLsSLRh0f34rLsNWrvddzg) (CERL) under the supervision of [Dr. Zhen Hu](https://www.google.com/url?q=https%3A%2F%2Fumdearborn.edu%2Fusers%2Fzhennhu&sa=D&sntz=1&usg=AFQjCNGm3aWrgnO9QRX-fyo7alwGhUsuwA) in 2022 winter. So sad! Visa problem!
-
-My research interests include Additive Manufacturing and Diagnosis System.
+I am a develop engineer at Huazhong University of Science and Technology (HUST). I will join the group of [Dr. Qi Zhou](http://ae.hust.edu.cn/info/1093/1145.htm) in Sep. 2022. My research interests include Deep Learning, Digital Twin and Diagnosis System.
 
 Email: xufenghuang1228@gmail.com
 
@@ -46,6 +43,7 @@ Email: xufenghuang1228@gmail.com
 - 2012.09 – 2016.06: B.Eng, Mechanical Design Manufacturing and Automation, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), Wuhan, China
 
 ## Experience
+- 2022.03 – Now: Develop Engineer, [Dr. Qi Zhou’s Group](https://scholar.google.fr/citations?user=HEMahGkAAAAJ&hl=en), School of Aerospace Engineering, [HUST](http://english.hust.edu.cn/), Wuhan, China
 - 2019.08 – 2021.12: Research Assistant, [Dr. Qi Zhou’s Group](https://scholar.google.fr/citations?user=HEMahGkAAAAJ&hl=en), School of Aerospace Engineering, [HUST](http://english.hust.edu.cn/), Wuhan, China
 
 ## Awards

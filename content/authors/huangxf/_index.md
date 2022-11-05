@@ -21,21 +21,22 @@ social:
 organizations:
   - name: HUST
     url: http://english.hust.edu.cn/
-education:
- courses:
-   - course: M.S. in Mechatronic Engineering
-     institution: Guangxi University (GXU)
-     year: 2019
-   - course: B.S. in Mechanical Design Manufacturing and Automation
-     institution: Huazhong University of Science and Technology (HUST)
-     year: 2016
+# education:
+#  courses:
+#    - course: M.S. in Mechatronic Engineering
+#      institution: Guangxi University (GXU)
+#      year: 2019
+#    - course: B.S. in Mechanical Design Manufacturing and Automation
+#      institution: Huazhong University of Science and Technology (HUST)
+#      year: 2016
 email: xufenghuang1228@gmail.com
 superuser: true
 user_groups: []
 highlight_name: true
 ---
-I am a Ph.D. student at Huazhong University of Science and Technology (HUST) in the group of [Dr. Qi Zhou](http://ae.hust.edu.cn/info/1093/1145.htm). My research interests include Deep Learning, Digital Twin and Diagnosis System. {{% staticref "uploads/CV-xufeng-long-en_update.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+I am a Ph.D. student at Huazhong University of Science and Technology (HUST). My research interests include Deep Learning, Digital Twin and Diagnosis System. {{% staticref "uploads/CV-xufeng-long-en_update.pdf" "newtab" %}}Download my CV{{% /staticref %}}
 
+Advisor: [Dr. Qi Zhou](http://ae.hust.edu.cn/info/1093/1145.htm)
 Email: xufenghuang1228@gmail.com or huangxufeng@hust.edu.cn
 
 ## Education

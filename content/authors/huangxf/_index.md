@@ -37,6 +37,7 @@ highlight_name: true
 I am a Ph.D. student at Huazhong University of Science and Technology (HUST). My research interests include Deep Learning, Digital Twin and Diagnosis System. {{% staticref "uploads/CV-xufeng-long-en_update.pdf" "newtab" %}}Download my CV{{% /staticref %}}
 
 Advisor: [Dr. Qi Zhou](http://ae.hust.edu.cn/info/1093/1145.htm)
+
 Email: xufenghuang1228@gmail.com or huangxufeng@hust.edu.cn
 
 ## Education

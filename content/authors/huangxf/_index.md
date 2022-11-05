@@ -18,6 +18,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/hxf1228
+  - icon: cv
+    icon_pack: ai
+    link: https://github.com/hxf1228
 organizations:
   - name: HUST
     url: http://english.hust.edu.cn/
@@ -34,7 +37,7 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-I am a Ph.D. student at Huazhong University of Science and Technology (HUST) in the group of [Dr. Qi Zhou](http://ae.hust.edu.cn/info/1093/1145.htm). My research interests include Deep Learning, Digital Twin and Diagnosis System.
+I am a Ph.D. student at Huazhong University of Science and Technology (HUST) in the group of [Dr. Qi Zhou](http://ae.hust.edu.cn/info/1093/1145.htm). My research interests include Deep Learning, Digital Twin and Diagnosis System. {{% staticref "uploads/CV-xufeng-long-en_update.pdf" "newtab" %}}Download my CV{{% /staticref %}}
 
 Email: xufenghuang1228@gmail.com or huangxufeng@hust.edu.cn
 

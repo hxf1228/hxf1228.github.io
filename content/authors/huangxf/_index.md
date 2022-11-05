@@ -20,7 +20,7 @@ social:
     link: https://github.com/hxf1228
   - icon: cv
     icon_pack: ai
-    link: https://github.com/hxf1228
+    link: {{% staticref "uploads/CV-xufeng-long-en_update.pdf" "newtab" %}} {{% /staticref %}}
 organizations:
   - name: HUST
     url: http://english.hust.edu.cn/

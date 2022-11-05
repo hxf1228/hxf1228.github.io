@@ -18,20 +18,17 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/hxf1228
-  - icon: cv
-    icon_pack: ai
-    link: {{% staticref "uploads/CV-xufeng-long-en_update.pdf" "newtab" %}} {{% /staticref %}}
 organizations:
   - name: HUST
     url: http://english.hust.edu.cn/
-# education:
-#  courses:
-#    - course: M.S. in Mechatronic Engineering
-#      institution: Guangxi University (GXU)
-#      year: 2019
-#    - course: B.S. in Mechanical Design Manufacturing and Automation
-#      institution: Huazhong University of Science and Technology (HUST)
-#      year: 2016
+education:
+ courses:
+   - course: M.S. in Mechatronic Engineering
+     institution: Guangxi University (GXU)
+     year: 2019
+   - course: B.S. in Mechanical Design Manufacturing and Automation
+     institution: Huazhong University of Science and Technology (HUST)
+     year: 2016
 email: xufenghuang1228@gmail.com
 superuser: true
 user_groups: []

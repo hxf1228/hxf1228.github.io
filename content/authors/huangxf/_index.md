@@ -1,6 +1,6 @@
 ---
 title: Xufeng Huang
-role: Incoming Ph.D. Student
+role: Ph.D. Student
 avatar_filename: avatar.jpg
 bio: My research interests include Additive Manufacturing and Diagnosis System.
 # interests:
@@ -34,23 +34,26 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-I am a develop engineer at Huazhong University of Science and Technology (HUST). I will join the group of [Dr. Qi Zhou](http://ae.hust.edu.cn/info/1093/1145.htm) in Sep. 2022. My research interests include Deep Learning, Digital Twin and Diagnosis System.
+I am a Ph.D. student at Huazhong University of Science and Technology (HUST) in the group of [Dr. Qi Zhou](http://ae.hust.edu.cn/info/1093/1145.htm). My research interests include Deep Learning, Digital Twin and Diagnosis System.
 
-Email: xufenghuang1228@gmail.com
+Email: xufenghuang1228@gmail.com or huangxufeng@hust.edu.cn
 
 ## Education
+- 2022.09 – Now: Ph.D., Mechanical Engineering, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), Wuhan, China
 - 2016.09 – 2019.06: M.Eng, Mechatronic Engineering, [Guangxi University (GXU)](https://english.gxu.edu.cn/), Nanning, China
 - 2012.09 – 2016.06: B.Eng, Mechanical Design Manufacturing and Automation, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), Wuhan, China
 
 ## Experience
-- 2022.03 – Now: Develop Engineer, [Dr. Qi Zhou’s Group](https://scholar.google.fr/citations?user=HEMahGkAAAAJ&hl=en), School of Aerospace Engineering, [HUST](http://english.hust.edu.cn/), Wuhan, China
-- 2019.08 – 2021.12: Research Assistant, [Dr. Qi Zhou’s Group](https://scholar.google.fr/citations?user=HEMahGkAAAAJ&hl=en), School of Aerospace Engineering, [HUST](http://english.hust.edu.cn/), Wuhan, China
+- 2019.07 – 2022.07: Research Assistant, [Dr. Qi Zhou’s Group](https://scholar.google.fr/citations?user=HEMahGkAAAAJ&hl=en), School of Aerospace Engineering, [HUST](http://english.hust.edu.cn/), Wuhan, China
 
 ## Awards
-- 2019: Excellent Graduate of GXU
-- 2016/2017/2018: Outstanding Academic Scholarship of GXU
-- 2016: Excellent Graduate of HUST
-- 2015: Most Improved Scholarship of HUST
+- 2022: "Outstanding Academic Scholarship" in HUST
+- 2021: "Best Student Award (co-author)", PHM Asia Pacific 2021
+- 2016-2018: "Outstanding Academic Scholarship" in GXU, every academic year
+- 2016: "Excellent Undergraduate" in HUST
+- 2015: "Individual Scholarship (Most Improved)" in HUST
 
 ## Reviewers
+- Structural and Multidisciplinary Optimization
+- Journal of Manufacturing Processes
 - ASCE-ASME Risk and Uncertainty in Engineering Systems, Part B Mechanical Engineering

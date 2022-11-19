@@ -8,7 +8,7 @@ bio: My research interests include Additive Manufacturing and Diagnosis System.
 social:
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=hkSBCssAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=nvFXXdYAAAAJ&hl=en
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Xufeng-Huang-2

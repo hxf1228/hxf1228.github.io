@@ -2,7 +2,7 @@
 title: Xufeng Huang
 role: Ph.D. Student
 avatar_filename: avatar.jpg
-bio: My research interests include Additive Manufacturing and Diagnosis System.
+bio: My research interests include Scientific Machine Learning, Digital Twin and Information Fusion.
 # interests:
 #  - Deep Learning
 social:
@@ -34,7 +34,7 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-I am a Ph.D. student at Huazhong University of Science and Technology (HUST). My research interests include Deep Learning, Digital Twin and Diagnosis System. {{% staticref "uploads/CV-xufeng-long-en_update.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+I am a Ph.D. student at Huazhong University of Science and Technology (HUST). My research interests include Scientific Machine Learning, Digital Twin and Information Fusion. {{% staticref "uploads/CV-xufeng-long-en_update.pdf" "newtab" %}}Download my CV{{% /staticref %}}
 
 Advisor: [Dr. Qi Zhou](http://ae.hust.edu.cn/info/1093/1145.htm)
 
@@ -49,6 +49,8 @@ Email: xufenghuang1228@gmail.com or huangxufeng@hust.edu.cn
 - 2019.07 – 2022.07: Research Assistant, [Dr. Qi Zhou’s Group](https://scholar.google.fr/citations?user=HEMahGkAAAAJ&hl=en), School of Aerospace Engineering, [HUST](http://english.hust.edu.cn/), Wuhan, China
 
 ## Awards
+- 2022: "National Second Prize", the 19th China post-graduate mathematical contest in modeling
+- 2022: "National Second Prize", 2022 China (Tianjin) industrial innovation application
 - 2022: "Outstanding Academic Scholarship" in HUST
 - 2021: "Best Student Award (co-author)", PHM Asia Pacific 2021
 - 2016-2018: "Outstanding Academic Scholarship" in GXU, every academic year
@@ -59,3 +61,4 @@ Email: xufenghuang1228@gmail.com or huangxufeng@hust.edu.cn
 - Structural and Multidisciplinary Optimization
 - Journal of Manufacturing Processes
 - ASCE-ASME Risk and Uncertainty in Engineering Systems, Part B Mechanical Engineering
+- International Conference on Optoelectronic Information and Computer Engineering (OICE), 2023

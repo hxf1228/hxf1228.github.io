@@ -58,7 +58,9 @@ Email: xufenghuang1228@gmail.com or huangxufeng@hust.edu.cn
 - 2015: "Individual Scholarship (Most Improved)" in HUST
 
 ## Reviewers
+- Reliability Engineering & System Safety
 - Structural and Multidisciplinary Optimization
 - Journal of Manufacturing Processes
-- ASCE-ASME Risk and Uncertainty in Engineering Systems, Part B Mechanical Engineering
+- Journal of Big Data
+- ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems Part B: Mechanical Engineering
 - International Conference on Optoelectronic Information and Computer Engineering (OICE), 2023

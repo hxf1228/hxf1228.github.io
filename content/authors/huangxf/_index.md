@@ -36,7 +36,7 @@ highlight_name: true
 ---
 I am a Ph.D. candidate at Huazhong University of Science and Technology (HUST). {{% staticref "uploads/CV-xufeng-long-en_update.pdf" "newtab" %}}Download my CV{{% /staticref %}}
 
-**Specialties:**Scientific Machine Learning, Digital Twin, Information Fusion
+Specialties: Scientific Machine Learning, Digital Twin, Information Fusion
 
 Email: xufenghuang1228@gmail.com or huangxufeng@hust.edu.cn
 

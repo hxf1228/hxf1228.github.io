@@ -23,8 +23,8 @@ publishDate: 2021-08-07T21:14:30+08:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Industrial Informatics* (Early Access), 1-1"
-publication_short: "*IEEE Trans. Ind. Inf.* (Early Access), 1-1"
+publication: "*IEEE Transactions on Industrial Informatics, 18(5)*, 3213-3223"
+publication_short: "*IEEE Trans. Ind. Inf., 18(5)*, 3213-3223"
 
 abstract: "Diagnosis of mechanical faults in manufacturing systems is critical for ensuring safety and saving costs. With the development of data transmission and sensor technologies, measuring systems can acquire massive amounts of multi-sensor data. Although Deep-Learning (DL) provides an end-to-end way to address the drawbacks of traditional methods, it is necessary to do deep research on an intelligent fault diagnosis method based on Multi-Sensor Data. In this project, a novel intelligent diagnosis method based on Multi-Sensor Fusion (MSF) and Convolutional Neural Network (CNN) is explored. Firstly, a Multi-Signals-to-RGB-Image conversion method based on Principal Component Analysis (PCA) is applied to fuse multi-signal data into three-channel RGB images. Then, an improved CNN with residual networks is proposed, which can balance the relationship between computational cost and accuracy. Two datasets are used to verify the effectiveness of the proposed method. The results show the proposed method outperforms other DL-based methods in terms of accuracy."
 

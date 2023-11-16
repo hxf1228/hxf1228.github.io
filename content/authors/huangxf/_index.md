@@ -50,8 +50,8 @@ Email: xufenghuang1228@gmail.com or huangxufeng@hust.edu.cn
 
 ## Awards
 - 2023: "Merit Student" in HUST
-- 2023: "Best Paper (co-author)", Advanced Modeling and Simulation，ASME IDETC/CIE 2023
-- 2022: "National Second Prize", the 19th China post-graduate mathematical contest in modeling
+- 2023: "Best Paper", Advanced Modeling and Simulation，ASME IDETC/CIE 2023
+- 2022: "National Second Prize", 19th China post-graduate mathematical contest in modeling
 - 2022: "National Second Prize", 2022 China (Tianjin) industrial innovation application
 - 2022-2023: "Outstanding Academic Scholarship" in HUST
 - 2021: "Best Student Award (co-author)", PHM Asia Pacific 2021

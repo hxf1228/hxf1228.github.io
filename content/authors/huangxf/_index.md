@@ -34,9 +34,9 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-I am a Ph.D. student at Huazhong University of Science and Technology (HUST). My research interests include Scientific Machine Learning, Digital Twin and Information Fusion. {{% staticref "uploads/CV-xufeng-long-en_update.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+I am a Ph.D. candidate at Huazhong University of Science and Technology (HUST). {{% staticref "uploads/CV-xufeng-long-en_update.pdf" "newtab" %}}Download my CV{{% /staticref %}}
 
-Advisor: [Dr. Qi Zhou](http://ae.hust.edu.cn/info/1093/1145.htm)
+**Specialties:**Scientific Machine Learning, Digital Twin, Information Fusion
 
 Email: xufenghuang1228@gmail.com or huangxufeng@hust.edu.cn
 
@@ -46,12 +46,14 @@ Email: xufenghuang1228@gmail.com or huangxufeng@hust.edu.cn
 - 2012.09 – 2016.06: B.Eng, Mechanical Design Manufacturing and Automation, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), Wuhan, China
 
 ## Experience
-- 2019.07 – 2022.07: Research Assistant, [Dr. Qi Zhou’s Group](https://scholar.google.fr/citations?user=HEMahGkAAAAJ&hl=en), School of Aerospace Engineering, [HUST](http://english.hust.edu.cn/), Wuhan, China
+- 2019.07 – 2022.07: Research Assistant, School of Aerospace Engineering, HUST, Wuhan, China
 
 ## Awards
+- 2023: "Merit Student" in HUST
+- 2023: "Best Paper (co-author)", Advanced Modeling and Simulation，ASME IDETC/CIE 2023
 - 2022: "National Second Prize", the 19th China post-graduate mathematical contest in modeling
 - 2022: "National Second Prize", 2022 China (Tianjin) industrial innovation application
-- 2022: "Outstanding Academic Scholarship" in HUST
+- 2022-2023: "Outstanding Academic Scholarship" in HUST
 - 2021: "Best Student Award (co-author)", PHM Asia Pacific 2021
 - 2016-2018: "Outstanding Academic Scholarship" in GXU, every academic year
 - 2016: "Excellent Undergraduate" in HUST
@@ -59,8 +61,10 @@ Email: xufenghuang1228@gmail.com or huangxufeng@hust.edu.cn
 
 ## Reviewers
 - Reliability Engineering & System Safety
+- Advances in Manufacturing
+- Journal of Big Data
 - Structural and Multidisciplinary Optimization
 - Journal of Manufacturing Processes
-- Journal of Big Data
 - ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems Part B: Mechanical Engineering
+- ASME Journal of Verification, Validation and Uncertainty Quantification
 - International Conference on Optoelectronic Information and Computer Engineering (OICE), 2023

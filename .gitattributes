@@ -1,0 +1,5 @@
+# 这是内容站点，不是代码库：让 GitHub 的语言统计不要把 .bib / 脚本算成主体
+*.bib        linguist-documentation
+content/**   linguist-documentation
+static/**    linguist-vendored
+*.sh         linguist-vendored

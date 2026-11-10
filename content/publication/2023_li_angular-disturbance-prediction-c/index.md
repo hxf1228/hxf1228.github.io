@@ -4,7 +4,7 @@ authors:
 - Chun-ming Li
 - Guang-hui Wang
 - Hai-ping Song
-- Xu-feng Huang
+- Xufeng Huang
 - Qi Zhou
 author_notes:
 - ""

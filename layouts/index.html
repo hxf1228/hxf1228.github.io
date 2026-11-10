@@ -1,6 +1,7 @@
 {{ define "main" }}
 {{ with resources.Get (.Params.avatar | default "img/avatar.jpg") }}
-  <img class="avatar" src="{{ .RelPermalink }}" alt="{{ $.Title }}" width="104" height="104">
+  {{ $a := .Fill "312x312 Center" }}
+  <img class="avatar" src="{{ $a.RelPermalink }}" alt="{{ $.Title }}" width="104" height="104">
 {{ end }}
 <section class="hero">
   <h1>{{ .Title }}</h1>

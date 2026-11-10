@@ -7,6 +7,8 @@
     {{- $confs = $confs | append . -}}
   {{- end -}}
 {{- end -}}
+{{- $anyCorr := false -}}
+{{- range . -}}{{- if partial "has-corr.html" . -}}{{- $anyCorr = true -}}{{- end -}}{{- end -}}
 {{ with $journals }}
   <h3 class="group-title">Journal Articles <span class="count">{{ len . }}</span></h3>
   {{ range . }}{{ partial "pub.html" . }}{{ end }}
@@ -15,3 +17,4 @@
   <h3 class="group-title">Conference Papers <span class="count">{{ len . }}</span></h3>
   {{ range . }}{{ partial "pub.html" . }}{{ end }}
 {{ end }}
+{{ if $anyCorr }}<p class="pub-note"><sup class="corr">*</sup> Corresponding author</p>{{ end }}

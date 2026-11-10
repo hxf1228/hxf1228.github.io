@@ -6,6 +6,7 @@
     {{ with .Params.publication }}
       <p class="pub-venue">{{ . | replaceRE `\*([^*]+)\*` "<em>$1</em>" | safeHTML }}</p>
     {{ end }}
+    {{ if partial "has-corr.html" . }}<p class="pub-note"><sup class="corr">*</sup> Corresponding author</p>{{ end }}
 
     <div class="pub-actions">
       {{ with .Params.doi }}<a class="btn" href="https://doi.org/{{ . }}" rel="noopener">DOI</a>{{ end }}

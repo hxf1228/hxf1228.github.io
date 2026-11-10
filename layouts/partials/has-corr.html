@@ -1,0 +1,5 @@
+{{- $has := false -}}
+{{- range .Params.author_notes -}}
+  {{- if in (lower (printf "%v" .)) "corresponding" -}}{{- $has = true -}}{{- end -}}
+{{- end -}}
+{{- return $has -}}

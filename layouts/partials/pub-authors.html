@@ -1,1 +1,1 @@
-<p class="pub-authors">{{ range $i, $a := .Params.authors }}{{ if $i }}, {{ end }}{{ if eq $a site.Title }}<strong>{{ $a }}</strong>{{ else }}{{ $a }}{{ end }}{{ end }}</p>
+{{ $notes := .Params.author_notes }}<p class="pub-authors">{{ range $i, $a := .Params.authors }}{{ if $i }}, {{ end }}{{ if eq $a site.Title }}<strong>{{ $a }}</strong>{{ else }}{{ $a }}{{ end }}{{ if and $notes (gt (len $notes) $i) (in (lower (printf "%v" (index $notes $i))) "corresponding") }}<sup class="corr" title="Corresponding author">*</sup>{{ end }}{{ end }}</p>

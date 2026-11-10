@@ -4,7 +4,7 @@
 title: "Information Fusion-Based Meta-Learning for Few-Shot Fault Diagnosis Under Different Working Conditions"
 authors:
 - Tingli Xie
-- huangxf
+- Xufeng Huang
 - Seung-Kyum Choi
 author_notes:
 - ""

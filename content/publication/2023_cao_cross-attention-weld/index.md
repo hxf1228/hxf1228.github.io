@@ -8,7 +8,7 @@ authors:
 - Libin Zhang
 - Shuyang Luo
 - Menglei Li
-- huangxf
+- Xufeng Huang
 author_notes:
 - ""
 - ""

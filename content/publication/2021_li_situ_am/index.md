@@ -5,7 +5,7 @@ title: "In situ quality inspection with layer-wise visual images based on deep t
 authors:
 - Jingchang Li
 - Qi Zhou
-- huangxf
+- Xufeng Huang
 - Menglei Li
 - Longchao Cao
 author_notes:

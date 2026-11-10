@@ -3,7 +3,7 @@
 
 title: "Three-dimensional hybrid fusion networks for current-based bearing fault diagnosis"
 authors:
-- huangxf
+- Xufeng Huang
 - Tingli Xie
 - Jiexiang Hu
 - Qi Zhou

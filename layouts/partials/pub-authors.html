@@ -1,0 +1,1 @@
+<p class="pub-authors">{{ range $i, $a := .Params.authors }}{{ if $i }}, {{ end }}{{ if eq $a site.Title }}<strong>{{ $a }}</strong>{{ else }}{{ $a }}{{ end }}{{ end }}</p>

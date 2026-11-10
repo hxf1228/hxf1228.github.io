@@ -4,7 +4,7 @@
 title: "Intelligent Mechanical Fault Diagnosis Using Multi-Sensor Fusion and Convolution Neural Network"
 authors:
 - Tingli Xie
-- huangxf
+- Xufeng Huang
 - Seung-Kyum Choi
 author_notes:
 - ""

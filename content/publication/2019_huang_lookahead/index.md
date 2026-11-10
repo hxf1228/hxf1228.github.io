@@ -4,7 +4,7 @@
 title: "Optimized continuous trajectory look-ahead algorithm with comprehensive multi-constraints"
 authors:
 - Lin Chen
-- huangxf
+- Xufeng Huang
 - Meng Liu
 - Shanshan Liu
 - Feixiang He

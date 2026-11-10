@@ -5,7 +5,7 @@ title: "Fault diagnosis of rotating machinery based on recurrent neural networks
 authors:
 - Yahui Zhang
 - Taotao Zhou
-- huangxf
+- Xufeng Huang
 - Longchao cao
 - Qi Zhou
 author_notes:

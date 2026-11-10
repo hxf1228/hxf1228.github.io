@@ -22,26 +22,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Hugo Modules（wowchemy 主题）需要 go 命令来拉取模块
-      - name: Set up Go
-        uses: actions/setup-go@v5
-        with:
-          go-version: '1.19'
-          cache: false
-
+      # 版本写死，不用 latest：升级 Hugo 时要作为一次独立改动来审
       - name: Set up Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.84.4'
-          extended: true
+          hugo-version: '0.169.0'
 
       - name: Build
-        env:
-          HUGO_ENV: production
-          # go.sum 里只有 go.mod 哈希，readonly 模式会直接报错，必须放开
-          GOFLAGS: -mod=mod
         run: |
-          hugo --gc --minify --verbose
+          hugo --gc --minify
           test -f public/index.html
           du -sh public
 

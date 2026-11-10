@@ -3,7 +3,7 @@
 
 title: "Point-Cloud Neural Network Using Transfer Learning-Based Multi-Fidelity Method for Thermal Field Prediction in Additive Manufacturing"
 authors:
-- huangxf
+- Xufeng Huang
 - Zhen Hu
 - Tingli Xie
 - Zhuo Wang

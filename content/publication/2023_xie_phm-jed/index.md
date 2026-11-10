@@ -4,7 +4,7 @@
 title: "A data-driven adaptive algorithm and decision support design of multisensory information fusion for prognostics and health management applications"
 authors:
 - Tingli Xie
-- huangxf
+- Xufeng Huang
 - Hyung Wook Park
 - Heung Soo Kim
 - Seung-Kyum Choi

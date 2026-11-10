@@ -4,7 +4,7 @@
 title: "Multi-Sensor Data Fusion for Rotating Machinery Fault Diagnosis Using Residual Convolutional Neural Network"
 authors:
 - Tingli Xie
-- huangxf
+- Xufeng Huang
 - Seung-Kyum Choi
 author_notes:
 - ""

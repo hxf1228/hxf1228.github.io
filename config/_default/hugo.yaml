@@ -1,0 +1,35 @@
+# 站点配置：内容在 content/，模板在 layouts/，样式在 assets/css/main.css。
+# 没有 theme、没有 Hugo Modules、没有 go.mod —— 一个 hugo 命令就能构建。
+
+baseURL: 'https://hxf1228.github.io/'
+title: Xufeng Huang
+locale: en-US
+defaultContentLanguage: en
+
+enableRobotsTXT: true
+summaryLength: 30
+
+# 只产出 HTML 与 RSS。旧配置里的 JSON / WebAppManifest / headers / redirects
+# 是 Wowchemy 搜索和 Netlify 专用的，已随框架一起移除。
+outputs:
+  home: [HTML, RSS]
+  section: [HTML, RSS]
+
+# 旧配置的 tag / category / publication_type 三套分类全部去掉：
+# 前两套内容为空，第三套只会生成标题为 "1"、"2" 的空页。
+# 论文的分类分组改在模板里做（见 layouts/partials/pub-groups.html）。
+taxonomies: {}
+
+menus:
+  main:
+    - name: Publications
+      url: /publication/
+      weight: 10
+
+markup:
+  highlight:
+    style: github
+  goldmark:
+    renderer:
+      # callout 短代码用 {{% %}} 写法，输出里的 <aside> 需要这一项才不会被 goldmark 丢弃
+      unsafe: true

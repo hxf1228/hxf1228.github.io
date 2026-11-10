@@ -1,0 +1,17 @@
+{{- $journals := slice -}}
+{{- $confs := slice -}}
+{{- range sort . "Date" "desc" -}}
+  {{- if and .Params.publication_types (in .Params.publication_types "2") -}}
+    {{- $journals = $journals | append . -}}
+  {{- else -}}
+    {{- $confs = $confs | append . -}}
+  {{- end -}}
+{{- end -}}
+{{ with $journals }}
+  <h3 class="group-title">Journal Articles <span class="count">{{ len . }}</span></h3>
+  {{ range . }}{{ partial "pub.html" . }}{{ end }}
+{{ end }}
+{{ with $confs }}
+  <h3 class="group-title">Conference Papers <span class="count">{{ len . }}</span></h3>
+  {{ range . }}{{ partial "pub.html" . }}{{ end }}
+{{ end }}

@@ -4,7 +4,7 @@
 title: "Transfer learning based on improved stacked autoencoder for bearing fault diagnosis"
 authors:
 - Shuyang Luo
-- huangxf
+- Xufeng Huang
 - Yanzhi Wang
 - Rongmin Luo
 - Qi Zhou

@@ -1,0 +1,11 @@
+<article class="pub">
+  <h4 class="pub-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+  {{ partial "pub-authors.html" . }}
+  {{ with .Params.publication }}
+    <p class="pub-venue">{{ . | replaceRE `\*([^*]+)\*` "<em>$1</em>" | safeHTML }}</p>
+  {{ end }}
+  <p class="pub-meta">
+    <span>{{ .Date.Format "2006" }}</span>
+    {{ with .Params.doi }}<a href="https://doi.org/{{ . }}" rel="noopener">DOI</a>{{ end }}
+  </p>
+</article>

@@ -4,7 +4,7 @@
 title: "Metric-Based Meta-Learning for Cross-Domain Few-Shot Identification of Welding Defect"
 authors:
 - Tingli Xie
-- huangxf
+- Xufeng Huang
 - Seung-Kyum Choi
 author_notes:
 - ""

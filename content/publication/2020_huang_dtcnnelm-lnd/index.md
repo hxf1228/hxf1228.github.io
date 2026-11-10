@@ -3,7 +3,7 @@
 
 title: "Deep Transfer Convolutional Neural Network and Extreme Learning Machine for lung nodule diagnosis on CT images"
 authors:
-- huangxf
+- Xufeng Huang
 - Qiang Lei
 - Tingli Xie
 - Yahui Zhang

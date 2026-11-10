@@ -6,8 +6,8 @@ authors:
 - Seung-Kyum Choi
 author_notes:
 - ""
-- "Corresponding author"
 - ""
+- "Corresponding author"
 date: 2023-01-01T00:00:00+08:00
 doi: "10.1115/DETC2023-114851"
 

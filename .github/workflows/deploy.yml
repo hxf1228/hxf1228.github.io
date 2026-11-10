@@ -1,0 +1,62 @@
+name: Deploy Hugo site to GitHub Pages
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 同一时间只跑一个部署，新的推送取代排队中的旧任务
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Hugo Modules（wowchemy 主题）需要 go 命令来拉取模块
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.19'
+          cache: false
+
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.84.4'
+          extended: true
+
+      - name: Build
+        env:
+          HUGO_ENV: production
+          # go.sum 里只有 go.mod 哈希，readonly 模式会直接报错，必须放开
+          GOFLAGS: -mod=mod
+        run: |
+          hugo --gc --minify --verbose
+          test -f public/index.html
+          du -sh public
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4

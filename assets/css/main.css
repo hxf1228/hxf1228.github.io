@@ -117,9 +117,9 @@ h2.section-title,
 .pub-title a:hover { color: var(--accent); text-decoration: none; }
 .pub-authors { margin: 0; font-size: .9rem; color: var(--muted); }
 .pub-authors strong { color: var(--fg); font-weight: 600; }
-.pub-authors sup.corr { font-size: .72em; vertical-align: super; line-height: 0; margin-left: 1px; color: var(--muted); }
+.pub-authors .corr { font-size: 1em; color: var(--muted); margin-left: 1px; }
 .pub-note { margin: .45rem 0 0; font-size: .78rem; color: var(--muted); }
-.pub-note sup.corr { margin-right: 2px; }
+.pub-note .corr { margin-right: .3em; }
 .pub-venue { margin: .15rem 0 0; font-size: .9rem; color: #3c4043; }
 .pub-meta { margin: .3rem 0 0; font-size: .82rem; color: var(--muted); display: flex; gap: 12px; }
 

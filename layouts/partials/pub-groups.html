@@ -17,4 +17,4 @@
   <h3 class="group-title">Conference Papers <span class="count">{{ len . }}</span></h3>
   {{ range . }}{{ partial "pub.html" . }}{{ end }}
 {{ end }}
-{{ if $anyCorr }}<p class="pub-note"><sup class="corr">*</sup> Corresponding author</p>{{ end }}
+{{ if $anyCorr }}<p class="pub-note"><span class="corr">*</span>Corresponding author</p>{{ end }}

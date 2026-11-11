@@ -4,6 +4,9 @@
 <body>
   <a class="skip" href="#main">Skip to content</a>
   {{ partial "header.html" . }}
+  {{ if ne .Kind "404" }}
+    <div class="wrap">{{ partial "hero.html" (dict "page" . "compact" (not .IsHome)) }}</div>
+  {{ end }}
   <main id="main" class="wrap">
     {{ block "main" . }}{{ end }}
   </main>

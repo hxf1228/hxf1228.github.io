@@ -1,21 +1,4 @@
 {{ define "main" }}
-{{ with resources.Get (.Params.avatar | default "img/avatar.jpg") }}
-  {{ $a := .Fill "312x312 Center" }}
-  <img class="avatar" src="{{ $a.RelPermalink }}" alt="{{ $.Title }}" width="104" height="104">
-{{ end }}
-<section class="hero">
-  <h1>{{ .Title }}</h1>
-  {{ with .Params.role }}<p class="hero-role">{{ . }}</p>{{ end }}
-  {{ with .Params.affiliation }}<p class="hero-aff">{{ . }}</p>{{ end }}
-  {{ with .Params.social }}
-    <ul class="socials">
-      {{ range . }}
-        <li><a href="{{ .url }}" rel="noopener"><i class="{{ .icon }}" aria-hidden="true"></i>{{ .label }}</a></li>
-      {{ end }}
-    </ul>
-  {{ end }}
-</section>
-
 <h2 class="section-title">About me</h2>
 <div class="prose">{{ .Content }}</div>
 

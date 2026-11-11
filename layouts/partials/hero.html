@@ -1,0 +1,24 @@
+{{ $page := .page }}
+{{ $compact := .compact }}
+{{ $home := site.Home }}
+{{ $p := $home.Params }}
+<header class="hero{{ if $compact }} hero--compact{{ end }}">
+  {{ with resources.Get ($p.avatar | default "img/avatar.jpg") }}
+    {{ $a := .Fill "312x312 Center" }}
+    <img class="hero__avatar" src="{{ $a.RelPermalink }}" alt="{{ $home.Title }}" width="152" height="152">
+  {{ end }}
+  <div class="hero__body">
+    {{ if not $compact }}
+      <h1 class="hero__name">{{ $home.Title }}</h1>
+    {{ end }}
+    {{ with $p.role }}<p class="hero__role">{{ . }}</p>{{ end }}
+    {{ with $p.affiliation }}<p class="hero__aff">{{ . }}</p>{{ end }}
+    {{ with $p.social }}
+      <ul class="hero__links">
+        {{ range . }}
+          <li><a class="pill" href="{{ .url }}" rel="noopener"><i class="{{ .icon }}" aria-hidden="true"></i>{{ .label }}</a></li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  </div>
+</header>

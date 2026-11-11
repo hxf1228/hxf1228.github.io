@@ -5,6 +5,9 @@ affiliation: Huazhong University of Science and Technology
 avatar: img/avatar.jpg
 email: xufenghuang1228@gmail.com
 social:
+  - icon: fas fa-envelope
+    label: Email
+    url: mailto:xufenghuang1228@gmail.com
   - icon: ai ai-google-scholar
     label: Google Scholar
     url: https://scholar.google.com/citations?user=nvFXXdYAAAAJ&hl=en

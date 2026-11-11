@@ -117,7 +117,7 @@ main > .section-title:first-child { margin-top: 0; }
 
 /* 正文 */
 .prose { margin-top: 2.2rem; }
-.prose p { margin: 0 0 1rem; max-width: 74ch; }
+.prose p { margin: 0 0 1rem; }
 .prose ul { margin: 0 0 1rem; padding-left: 1.1rem; }
 .prose li { margin-bottom: .35rem; }
 

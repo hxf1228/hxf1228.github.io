@@ -2,13 +2,15 @@
 {{ $compact := .compact }}
 {{ $home := site.Home }}
 {{ $p := $home.Params }}
-<header class="hero{{ if $compact }} hero--compact{{ end }}">
+<header class="hero">
   {{ with resources.Get ($p.avatar | default "img/avatar.jpg") }}
     {{ $a := .Fill "312x312 Center" }}
     <img class="hero__avatar" src="{{ $a.RelPermalink }}" alt="{{ $home.Title }}" width="152" height="152">
   {{ end }}
   <div class="hero__body">
-    {{ if not $compact }}
+    {{ if $compact }}
+      <p class="hero__name">{{ $home.Title }}</p>
+    {{ else }}
       <h1 class="hero__name">{{ $home.Title }}</h1>
     {{ end }}
     {{ with $p.role }}<p class="hero__role">{{ . }}</p>{{ end }}

@@ -16,7 +16,8 @@
   {{ end }}
 </section>
 
-<div class="prose" id="biography">{{ .Content }}</div>
+<h2 class="section-title">About me</h2>
+<div class="prose">{{ .Content }}</div>
 
 {{ $pubs := where site.RegularPages "Section" "publication" }}
 {{ with $pubs }}

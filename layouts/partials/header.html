@@ -6,16 +6,14 @@
       {{ range site.Menus.main }}
         {{ $url := .URL }}
         {{ $active := false }}
-        {{ $spy := "" }}
         {{ if eq $url "/" }}
           {{ if $page.IsHome }}{{ $active = true }}{{ end }}
-          {{ $spy = "home" }}
-        {{ else if eq $url "/#biography" }}
-          {{ $spy = "biography" }}
         {{ else if eq $url "/publication/" }}
           {{ if eq $page.Section "publication" }}{{ $active = true }}{{ end }}
+        {{ else }}
+          {{ if eq $page.RelPermalink $url }}{{ $active = true }}{{ end }}
         {{ end }}
-        <a href="{{ $url | relURL }}"{{ if $active }} class="is-active" aria-current="page"{{ end }}{{ with $spy }} data-spy="{{ . }}"{{ end }}>{{ .Name }}</a>
+        <a href="{{ $url | relURL }}"{{ if $active }} class="is-active" aria-current="page"{{ end }}>{{ .Name }}</a>
       {{ end }}
     </nav>
   </header>

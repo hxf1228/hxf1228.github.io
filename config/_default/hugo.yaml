@@ -26,7 +26,7 @@ menus:
       url: /
       weight: 10
     - name: Biography
-      url: /#biography
+      url: /biography/
       weight: 20
     - name: Publications
       url: /publication/

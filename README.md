@@ -10,7 +10,8 @@
 
 | 路径 | 作用 |
 | --- | --- |
-| `content/_index.md` | 首页：称呼 / 职位 / 单位 / 头像 / 社交链接 + 正文（简介、教育、经历、获奖、审稿） |
+| `content/_index.md` | 首页：首屏（称呼 / 职位 / 单位 / 头像 / 社交链接）+ About me + 论文列表 |
+| `content/biography.md` | 简历页 `/biography/`：教育、经历、获奖、审稿 |
 | `content/publication/<slug>/` | 一篇论文 = `index.md` + `cite.bib` |
 | `layouts/index.html` | 首页模板（首屏 + 正文 + 论文列表） |
 | `layouts/_default/single.html` | 论文详情（DOI、Cite 面板、摘要） |
@@ -23,7 +24,7 @@
 
 ## 改内容
 
-- 改首页文字（简介、教育、获奖…）：编辑 `content/_index.md`
+- 改首页简介：`content/_index.md`；改教育 / 经历 / 获奖 / 审稿：`content/biography.md`
 - 加一篇论文：新建 `content/publication/<slug>/index.md`，同目录放 `cite.bib`。front matter 里 `publication_types: ["2"]` 是期刊、`["1"]` 是会议，分组和列表都靠它
 - 改外观：`assets/css/main.css`；改结构：`layouts/`
 

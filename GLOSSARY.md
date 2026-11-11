@@ -12,9 +12,13 @@ _Avoid_: 模板内容
 决定 HTML 结构与样式的部分，决定"长什么样"；本项目自写，不依赖第三方主题。
 _Avoid_: 皮肤、前端
 
-**首页区块 (Home widget)**:
-`content/home/` 下的单个 Markdown 文件，按 `weight` 纵向堆叠成首页的一个段落（如 about、publications）。
-_Avoid_: 卡片、组件、section
+**首页 (Home)**:
+`content/_index.md`，渲染成「首屏 + About me + 论文列表」三段，只讲你是谁和做过什么。
+_Avoid_: 主页、landing page
+
+**简历页 (Biography)**:
+`content/biography.md`，独立页面 `/biography/`，装教育、经历、获奖、审稿这类履历细节。
+_Avoid_: CV 页
 
 **论文条目 (Publication entry)**:
 `content/publication/<slug>/` 目录，含 `index.md`、`cite.bib` 与可选配图，发布为 `/publication/<slug>/`。

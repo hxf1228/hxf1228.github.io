@@ -137,9 +137,11 @@ h2.section-title,
 
 /* 论文详情 */
 .page-title,
-.pub-single > h1 { font-size: 1.5rem; line-height: 1.35; margin: 0 0 .5rem; font-weight: 600; }
-.pub-single .pub-authors { font-size: .95rem; }
-.pub-single .pub-venue { margin-top: .4rem; font-size: .95rem; }
+.page > h1 { font-size: 1.5rem; line-height: 1.35; margin: 0 0 .5rem; font-weight: 600; }
+.page .prose { margin-top: 1.4rem; }
+.section-title + .prose { margin-top: 0; }
+.page .pub-authors { font-size: .95rem; }
+.page .pub-venue { margin-top: .4rem; font-size: .95rem; }
 
 .pub-actions { position: relative; display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin: 1.1rem 0 0; }
 .btn {
@@ -235,7 +237,7 @@ code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
   .site-header { padding: 11px 0; }
   .hero h1 { font-size: 1.6rem; }
   .site-nav { gap: 14px; font-size: .85rem; }
-  .pub-single > h1 { font-size: 1.3rem; }
+  .page > h1 { font-size: 1.3rem; }
   .to-top { right: 16px; bottom: 16px; }
 }
 

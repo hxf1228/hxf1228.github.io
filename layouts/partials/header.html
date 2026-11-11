@@ -1,8 +1,10 @@
-<header class="site-header wrap">
-  <a class="site-name" href="{{ "/" | relURL }}">{{ site.Title }}</a>
-  <nav class="site-nav">
-    {{ range site.Menus.main }}
-      <a href="{{ .URL | relURL }}">{{ .Name }}</a>
-    {{ end }}
-  </nav>
-</header>
+<div class="site-topbar">
+  <header class="site-header wrap">
+    <a class="site-name" href="{{ "/" | relURL }}">{{ site.Title }}</a>
+    <nav class="site-nav">
+      {{ range site.Menus.main }}
+        <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+      {{ end }}
+    </nav>
+  </header>
+</div>

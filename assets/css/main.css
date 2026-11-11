@@ -45,9 +45,21 @@ a:hover { text-decoration: underline; }
 
 .site-header { display: flex; align-items: baseline; gap: 16px; padding: 13px 0; }
 .site-name { color: var(--fg); font-weight: 600; font-size: .98rem; letter-spacing: .01em; }
-.site-nav { margin-left: auto; font-size: .9rem; }
-.site-nav a { color: var(--muted); margin-left: 18px; }
-.site-nav a:hover { color: var(--accent); text-decoration: none; }
+.site-nav { display: flex; gap: 22px; margin-left: auto; font-size: .9rem; }
+.site-nav a { position: relative; color: var(--muted); padding-bottom: 3px; }
+.site-nav a:hover { color: var(--fg); }
+.site-nav a.is-active { color: var(--fg); }
+.site-nav a.is-active::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  height: 2px;
+  background: var(--accent);
+  border-radius: 1px;
+}
+.site-nav a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 2px; }
 
 main { padding-top: 40px; padding-bottom: 8px; }
 
@@ -222,7 +234,7 @@ code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
   .wrap { padding: 0 18px; }
   .site-header { padding: 11px 0; }
   .hero h1 { font-size: 1.6rem; }
-  .site-nav a { margin-left: 14px; }
+  .site-nav { gap: 14px; font-size: .85rem; }
   .pub-single > h1 { font-size: 1.3rem; }
   .to-top { right: 16px; bottom: 16px; }
 }

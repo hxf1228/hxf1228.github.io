@@ -23,10 +23,10 @@ description: Education, research experience, awards, and review service of Xufen
 - 2023/10: "Merit Student" in HUST
 - 2023/08: "Best Paper", Advanced Modeling and Simulation, ASME IDETC/CIE 2023
 - 2022-2024: "Outstanding Academic Scholarship" in HUST, every academic year
-- 2022/12: "National Second Prize", 19th "Huawei Cup" China Post-Graduate Mathematical Contest in Modeling (Team Leader, Top 5%)
+- 2022/12: "National Second Prize", Huawei Cup China Post-Graduate Math Modeling Contest (Team Leader, Top 5%)
 - 2022/12: "National Second Prize", 2022 China (Tianjin) Industrial APP Innovation Application Competition (Top 3)
 - 2021/09: "Best Student Award (co-author)", PHM Asia Pacific 2021
-- 2020/10: Top 1% (14/653), Pathology Image Segmentation Track, 1st Jiangsu Big Data Development and Application Competition (Team Leader)
+- 2020/10: Top 1% (14/653), Pathology Image Segmentation, Jiangsu Big Data Competition (Team Leader)
 - 2016-2018: "Outstanding Academic Scholarship" in GXU, every academic year
 - 2016/06: "Excellent Undergraduate" in HUST
 - 2015/05: "Individual Scholarship (Most Improved)" in HUST

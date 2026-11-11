@@ -5,13 +5,13 @@ description: Education, research experience, awards, and review service of Xufen
 
 ## Education
 
-- 2022.09 – 2026.01: Ph.D., Mechanical Engineering, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), Wuhan, China
-- 2016.09 – 2019.06: M.Eng., Mechatronic Engineering, [Guangxi University (GXU)](https://english.gxu.edu.cn/), Nanning, China
-- 2012.09 – 2016.06: B.Eng., Mechanical Design Manufacturing and Automation, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), Wuhan, China
+- 2022.09 – 2026.01: Ph.D., Mechanical Engineering, [HUST](http://english.hust.edu.cn/), Wuhan, China
+- 2016.09 – 2019.06: M.Eng., Mechatronic Engineering, [GXU](https://english.gxu.edu.cn/), Nanning, China
+- 2012.09 – 2016.06: B.Eng., Mechanical Design Manufacturing and Automation, [HUST](http://english.hust.edu.cn/), Wuhan, China
 
 ## Experience
 
-- 2026.03 – Now: Postdoctoral Fellow, School of Artificial Intelligence and Automation, HUST, Wuhan, China
+- 2026.03 – Now: Postdoctoral Fellow, HUST, Wuhan, China (Supervisor: Prof. Qi Zhou and Sheng Zhong)
 - 2019.07 – 2022.07: Research Assistant, School of Aerospace Engineering, HUST, Wuhan, China
 
 ## Awards

@@ -22,10 +22,10 @@ social:
     url: https://github.com/hxf1228
 ---
 
-I am a Postdoctoral Fellow at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), in the School of Artificial Intelligence and Automation.
+I am Xufeng Huang (黄旭丰), a Postdoctoral Fellow in the School of Aerospace Engineering at HUST.
 
-Specialties: Scientific Machine Learning, Digital Twin, Information Fusion.
+My research sits between computational mechanics and machine learning. I build surrogate models and digital twins that make high-fidelity simulation cheap enough to run inside a design loop, and I fuse multi-source sensing data when physics alone cannot deliver the answer. Recent papers cover melt-pool and thermal-field prediction in additive manufacturing, airfoil flow-field prediction, and fault diagnosis of bearings and welding processes.
 
-Email: xufenghuang1228@gmail.com or huangxufeng@hust.edu.cn
+I am interested in scientific machine learning, digital twin modelling, and information fusion.
 
 Education, research experience, awards, and review service are on the [Biography](biography/) page.
